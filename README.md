@@ -1,6 +1,6 @@
 # LinkList
 
-Implementation of C++ based linked list
+C++ Implementation of linked list data structure
 
 ## Authors
 
